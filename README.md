@@ -3,7 +3,7 @@
 ## 📌 Integrantes del equipo  
 - **[Edmundo Vladimir Yabar Yepez]**  
 - **[Cristian Maykol Khuno Mamani]**  
-- **[Nombre del integrante 3]**  
+- **[Josue Quispe Rivera]**  
 
 ## 🚀 Descripción  
 En esta actividad trabajamos con GitHub para aprender a colaborar en equipo.  
