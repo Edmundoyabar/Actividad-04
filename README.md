@@ -26,3 +26,6 @@ Cada miembro realizó al menos **dos commits** con cambios significativos:
   ```python
   print("¡Hola, mundo!")
 los commits realizados fueron : 
+print("Josue")
+print("dsg")
+print("e")
