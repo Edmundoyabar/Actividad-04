@@ -2,7 +2,7 @@
 
 ## 📌 Integrantes del equipo  
 - **[Edmundo Vladimir Yabar Yepez]**  
-- **[Nombre del integrante 2]**  
+- **[Cristian Maykol Khuno Mamani]**  
 - **[Nombre del integrante 3]**  
 
 ## 🚀 Descripción  
